@@ -35,7 +35,6 @@ To run the demo follow these steps:
 
 ## Useful links
 
-- 🏠 [Website](https://daltonic.github.io/)
 - ⚽ [Metamask](https://metamask.io/)
 - 🚀 [Remix Editor](https://remix.ethereum.org/)
 - 💡 [Hardhat](https://hardhat.org/)
